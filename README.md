@@ -3,7 +3,7 @@
 
 Name: `RONALD SALINAS`
 
-ONID ID: `931445428`
+ONID ID: `salinasr`
 
 Link to my CS 290 page: `CS290_PAGE_URL`
 
